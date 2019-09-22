@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "70585171350",
+    "firebase_url": "https://shinycleaning-e4940.firebaseio.com",
+    "project_id": "shinycleaning-e4940",
+    "storage_bucket": "shinycleaning-e4940.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:70585171350:android:2609f8ac03d456123ab1b7",
+        "android_client_info": {
+          "package_name": "com.example.shinycleaning"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "70585171350-67q5d01s56b8ogcr5nltt1ollsglr5ma.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shinycleaning",
+            "certificate_hash": "e8f0439675c473ff3bdcc92bba3ebf07fdbb27fc"
+          }
+        },
+        {
+          "client_id": "70585171350-8q1n8nqaga3in7bru73rccicmhk3ui5q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCol5M6TsJHGLajY-TDndDNEXREic6V99s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "70585171350-8q1n8nqaga3in7bru73rccicmhk3ui5q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
